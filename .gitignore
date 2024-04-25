@@ -128,5 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
 #mochawesomeReport
 mochawesome-report
+
+#Terraform
+.terraform*
+*.tfstate*
+*.tfvars
+
+# key
+*.key
+*.pem
